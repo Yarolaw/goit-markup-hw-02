@@ -1,0 +1,157 @@
+:root {
+  --primary-text-color: #212121;
+  --secondary-text-color: #757575;
+  --accent-color: #2196f3;
+  --primary-white-color: #ffffff;
+}
+
+/* Вкладка Студия */
+.site-nav-list {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+}
+.top-tittle {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  color: var(--primary-white-color);
+}
+.tittle-link {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  color: var(--primary-white-color);
+  background-color: var(--accent-color);
+}
+.tittle {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  color: var(--primary-text-color);
+}
+h3 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  color: var(--primary-text-color);
+}
+.text {
+  font-size: 14px;
+  line-height: 1.71;
+  color: var(--secondary-text-color);
+}
+.projects {
+  color: var(--primary-white-color);
+}
+.names {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18px;
+  color: var(--primary-text-color);
+}
+.names-text {
+  font-size: 16px;
+  line-height: 1.18;
+  color: var(--secondary-text-color);
+}
+/* Вкладка Портфолио */
+body {
+  font-family: "Roboto", sans-serif;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  color: var(--accent-color);
+}
+.top-color-logo {
+  color: #000000;
+}
+.footer-color-logo {
+  color: var(--primary-white-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+.site-nav-list {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+}
+
+.nav-link {
+  color: var(--primary-text-color);
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: var(--accent-color);
+}
+.mail {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  color: var(--accent-color);
+}
+.tel {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  color: var(--secondary-text-color);
+}
+
+button {
+  font-family: inherit;
+}
+
+.buttons {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  background-color: #f5f4fa;
+}
+.buttons:hover,
+.buttons:focus {
+  color: var(--primary-white-color);
+  background-color: var(--accent-color);
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  color: var(--primary-text-color);
+}
+p {
+  font-size: 16px;
+  line-height: 1.87;
+  color: var(--secondary-text-color);
+}
+.paragraf {
+  font-size: 18px;
+  line-height: 1.55;
+  color: var(--accent-color);
+}
+footer {
+  background-color: #2f303a;
+}
+.footer-mail {
+  font-size: 14px;
+  line-height: 1.71;
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer-adress {
+  font-size: 14px;
+  line-height: 1.71;
+  color: var(--primary-white-color);
+}
+b {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+  color: var(--primary-white-color);
+}
